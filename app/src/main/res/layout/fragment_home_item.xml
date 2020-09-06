@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="16dp"
+    app:cardCornerRadius="20dp"
+    android:layout_height="wrap_content">
+
+
+    <ImageView
+        android:id="@+id/roomItemBgImg"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/bathroom"/>
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="239dp"
+        android:layout_height="50dp"
+        android:layout_margin="20dp"
+        android:background="#77D6D6D6"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="145dp"
+        android:layout_height="47dp"
+        android:layout_alignStart="@+id/view"
+        android:layout_alignTop="@+id/view"
+        android:layout_alignEnd="@+id/view"
+        android:layout_marginStart="49dp"
+        android:layout_marginTop="26dp"
+        android:layout_marginEnd="45dp"
+        android:text="TextView"
+        android:textColor="@color/colorWhite"
+        android:textSize="25dp" />
+
+</android.support.v7.widget.CardView>

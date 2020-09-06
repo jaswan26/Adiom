@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "9296607790",
+    "firebase_url": "https://adiom2-aee87.firebaseio.com",
+    "project_id": "adiom2-aee87",
+    "storage_bucket": "adiom2-aee87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9296607790:android:3eaa5556628ea70a",
+        "android_client_info": {
+          "package_name": "com.homeautomation.adiom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9296607790-us81dfgf764oq4dlo3sdeho6beuvojfd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homeautomation.adiom",
+            "certificate_hash": "43c9683f7ae0c28fce6b8b511f173fa14ef0077a"
+          }
+        },
+        {
+          "client_id": "9296607790-vb234i87kq9bu99bo1dirhfctpj5b8r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd8MnBEtJK37B0F9vYc2ZbLPrdXlFRVZc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9296607790-vb234i87kq9bu99bo1dirhfctpj5b8r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
